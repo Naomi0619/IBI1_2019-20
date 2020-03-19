@@ -13,7 +13,7 @@ d=int(input('T='))
 import matplotlib.pyplot as plt
 labels=['A','G','C','T']
 count=[a,b,c,d]
-colors=['lightsalmon','wheat','lightcyan']
+colors=['lightsalmon','wheat','lightcyan','y']
 #Plot
 plt.pie(count, labels=labels, colors=colors, autopct='%1.1f%%', shadow=False)
 plt.title('pie of the four DNA nucleotides')
