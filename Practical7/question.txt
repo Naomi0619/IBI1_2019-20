@@ -1,0 +1,4 @@
+Question: How have new cases and total cases developed over time in Spain?
+Line number: Line74-98
+Discussion: The result is exactly what it was expected. The new cases and total cases are almost both 0 at first because Spain has not been greatly affected by the COVID-19. However, with the COVID situation developing, the new cases begin to increase day by day, which leads to the explosion of the total cases. Fortunately, at the end of the graph, a decrease of new cases can be seen, which may be the result of an effective solution towards the virus.
+
