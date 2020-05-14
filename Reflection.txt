@@ -1,0 +1,16 @@
+General Thoughts
+It was my first time to get professional training in programming.
+Hence, almost everything was brand-new to me.
+So completing these practicals can be seen as a huge challenge for me.
+Fortunately, I have got great help from teachers and classmates to successfully conquer all the difficulties.
+
+During this course, I have learnt version control, how to navigate Unix-like systems, how to write simple programs in Python and so on.
+It is great to find something behind the screen and how it actually is.
+But I think that the most important thing I learned was thinking independently.
+Due to the special online-teaching circumstance, when I came across some problems, I learned to think independently instead of immediately turning to others for assistance.
+
+
+Response to Formative Feedback
+I found the formative feedback quite helpful and thorough.
+From the feedback, I noticed that I often miss some important requirement in the guidance, which led to the loss of some functions.
+It helped me to revise the past practicals and reminded me to be more careful in the following practicals.
