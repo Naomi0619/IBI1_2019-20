@@ -1,0 +1,20 @@
+Human and Mouse
+BLOSUM62 score:1091
+Hamming/edit distance:23
+% identity: 89.64%
+Alignment: ML RA+C+T+R+L+PV +  GSR+KHSLPDLPYDYGALEPHINAQIMQLHHSKHHAAYVNNLN+TEEKY+EALAKGDVT+Q+ALQPALKFNGGGHINH+IFWTNLSP+GGGEPKGELLEAIKRDFGSF+KFKEKLTA+SVGVQGSGWGWLGFNKE+G+LQIAAC NQDPLQGTTGLIPLLGIDVWEHAYYLQYKNVRPDYLKAIWNVINWENVTERY ACKK
+
+Human and Random
+BLOSUM62 score:-250
+Hamming/edit distance:23
+% identity: 5.41%
+Alignment:   + +   T +        + ++Q+ ++ +        +P          +  ++  + N++    E   ++++       I++   L       +  + F  N  P++  +      +     +  F+       ++   ++            +  + I +   +  +     +  +        + +    +       +      +++++   +     
+
+Mouse and Random
+BLOSUM62 score:-250
+Hamming/edit distance:23
+% identity: 5.86%
+Alignment:     +   T +       +  ++++ ++ +        +P          +  ++  + N++    E   ++++       +++   L       +    F  N  PK+  +      +     +  FE       +V   ++            +  + I +   +  +     +  +        + +    +       +      +++++   +     
+
+From the result, it can be seen that the comparison of human and mouse was the most similiar, which shared nearly 90% of the genome.
+I think that's one of the important reasons why scientists always use mouse as a good animal model for research.
