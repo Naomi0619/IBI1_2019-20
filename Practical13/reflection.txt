@@ -1,0 +1,4 @@
+The practical was not easy, especially for the understanding of the last task. 
+I tried to use my codes to find points that were infected and infecting its neighbours but failed, so I finally just used the provided codes. 
+It is a little bit frustrating that the final pictures were not similar to the guidance's.
+But generally, the practical was interesting, which let me have a great understanding of the SIR model.
